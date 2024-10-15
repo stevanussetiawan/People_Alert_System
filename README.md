@@ -51,10 +51,7 @@ cd people-alert-system</code></pre>
 <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
 
 ## Demo
-<video width="600" controls>
-  <source src="assets/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Click here to watch the demo](assets/demo.mp4)
 
 <h2>Acknowledgements</h2>
 <ul>
