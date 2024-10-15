@@ -55,6 +55,6 @@ cd people-alert-system</code></pre>
 
 <h2>Acknowledgements</h2>
 <ul>
-    <li><a href="https://github.com/ultralytics">Ultralytics</a> for the YOLOv8 model.</li>
+    <li><a href="https://docs.ultralytics.com/">Ultralytics</a> for the YOLOv8 model.</li>
     <li><a href="https://opencv.org/">OpenCV</a> for image processing.</li>
 </ul>
