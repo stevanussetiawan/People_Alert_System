@@ -17,7 +17,7 @@
 <h2>Getting Started</h2>
 <ol>
     <li>Clone the repository:
-        <pre><code>git clone https://github.com/your-username/people-alert-system.git
+        <pre><code>git clone https://github.com/stevanussetiawan/people-alert-system.git
 cd people-alert-system</code></pre>
     </li>
     <li>Download the YOLOv8 model weights and save them in the <code>models</code> directory:
