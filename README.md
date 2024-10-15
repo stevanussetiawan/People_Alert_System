@@ -11,19 +11,8 @@
 </ul>
 
 <h2>Prerequisites</h2>
-<ul>
-    <li>Python 3.8+</li>
-    <li>Required libraries:
-        <ul>
-            <li>torch</li>
-            <li>opencv-python</li>
-            <li>ultralytics (for YOLOv8)</li>
-            <li>numpy</li>
-        </ul>
-    </li>
-</ul>
 <p>Install the required libraries using:</p>
-<pre><code>pip install torch opencv-python ultralytics numpy</code></pre>
+<pre><code>ppip install -r requirements.txt</code></pre>
 
 <h2>Getting Started</h2>
 <ol>
