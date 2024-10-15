@@ -52,6 +52,7 @@ cd people-alert-system</code></pre>
 
 ## Demo
 [Click here to watch the demo](assets/demo.mp4)
+> I apologize for the simplicity of the demo video, as well as the low resolution and my casual attire. I hope this doesn't detract from the content and functionality that I am trying to showcase. Thank you for your understanding!
 
 <h2>Acknowledgements</h2>
 <ul>
