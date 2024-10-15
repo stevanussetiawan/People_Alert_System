@@ -50,8 +50,8 @@ cd people-alert-system</code></pre>
 <h2>License</h2>
 <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
 
-<h2>Contributing</h2>
-<p>Contributions are welcome! Please fork the repository and submit a pull request for any improvements.</p>
+## Demo
+![Demo of the alert system](assets/demo.gif)
 
 <h2>Acknowledgements</h2>
 <ul>
