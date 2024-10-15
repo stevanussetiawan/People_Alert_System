@@ -42,11 +42,12 @@ cd people-alert-system</code></pre>
 <pre><code>python main.py --path webcam --weight_path models/yolov8n.pt --output_dir output_frames --n_people 1</code></pre>
 
 <h2>Output</h2>
+<h2>Output</h2>
 <ul>
-    <li>Detected frames will be saved in the specified <code>output_dir</code>.</li>
-    <li>Alerts will be logged in the console.</li>
+    <li>When the alert condition is met, each frame is highlighted with a red translucent overlay and a message "ALERT: Too many people detected!" centered on the frame.</li>
+    <li>If the alert condition is sustained for the specified duration, an email is sent to the configured recipient, containing the alert message with screenshot as evidence.</li>
+    <li>Alerts are also logged in the console, indicating when an email has been sent and the specific conditions that triggered it.</li>
 </ul>
-
 <h2>License</h2>
 <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
 
