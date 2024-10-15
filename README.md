@@ -42,7 +42,6 @@ cd people-alert-system</code></pre>
 <pre><code>python main.py --path webcam --weight_path models/yolov8n.pt --output_dir output_frames --n_people 1</code></pre>
 
 <h2>Output</h2>
-<h2>Output</h2>
 <ul>
     <li>When the alert condition is met, each frame is highlighted with a red translucent overlay and a message "ALERT: Too many people detected!" centered on the frame.</li>
     <li>If the alert condition is sustained for the specified duration, an email is sent to the configured recipient, containing the alert message with screenshot as evidence.</li>
