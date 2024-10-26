@@ -12,7 +12,7 @@
 
 <h2>Prerequisites</h2>
 <p>Install the required libraries using:</p>
-<pre><code>ppip install -r requirements.txt</code></pre>
+<pre><code>pip install -r requirements.txt</code></pre>
 
 <h2>Getting Started</h2>
 <ol>
